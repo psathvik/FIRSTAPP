@@ -11,8 +11,6 @@ class Frame extends Component {
        console.log("IN ROUTERS")
        return (
           <div>
-             
-            
 
          
           <BrowserRouter> 

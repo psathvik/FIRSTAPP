@@ -24,7 +24,7 @@ class App extends Component {
       <div >
       <header className="App-header">
 
-           <Login/>
+           <Login/> 
            {/*<Frame/>}
 
            {/* <SAT/> */}
